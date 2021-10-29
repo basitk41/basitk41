@@ -108,7 +108,7 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="CodeSandBox" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="CodeSandBox" src="https://img.shields.io/badge/CodeSandBox-000000.svg?logo=codesandbox&logoColor=white"></a>
   
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
