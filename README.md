@@ -4,7 +4,7 @@
 </p>
 <hr/>
 <h4 align="center">
-Creative Developer, designing useful, approachable user interfaces. Knowledgeable on all aspects of Facebook's design best practices and emerging UI development techniques. Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization. Use Node, Express to develop Web Applications and scalable backends.
+Creative Developer, designing useful, approachable user interfaces. Knowledgeable on all aspects of Facebook's design best practices and emerging UI development techniques. Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization. Using Node, Express to develop Web Applications and scalable backends.
 Multitalented MERN Stack developer with experience in 2 software industries. Demonstrated excellent skills in HTML, CSS, Bootstrap, JavaScript, React and Node.js/Express.js. True team player with strengths in adaptability and accuracy. I am continuously improving my skills and applying top standards in development..</h4>
 <br>
 
