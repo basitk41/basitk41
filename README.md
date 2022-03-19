@@ -148,7 +148,7 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
 
 <br/>
 
-- 📫 How to reach me? Well here is my email basit@iplex.co
+- 📫 How to reach me? Well here is my email basitk41@gmail.com
 
 <!---
 basitk41/basitk41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
