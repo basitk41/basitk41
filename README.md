@@ -5,9 +5,9 @@
 <hr/>
 <h4 align="center">
 I am a Fullstack JavaScript Developer with a focus on Frontend with more than 3 years of professional software development experience using JavaScript & TypeScript (React/Node/Express) with excellent technical, programming, debugging, and problem-solving skills. I am currently working at Evamp & Saanga, developing highly scalable and reliable applications.
-
+<br />
 Currently working with leading technologies and tools including Javascript | Typescript | React.js | Next.js | Node.js | Express.js | Redux | Recoil.js | HTML | CSS | SCSS | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | MySQL| MongoDB | Storybook.js | Context API | Formik | Apollo GraphQl | Linux | Jest | Cypress.js | Git | Agile
-
+<br />
 I worked across various industries and for international companies & startups. My ideal work environment is filled with problems and challenges on a daily basis. I enjoy learning and taking opportunities that propel me beyond my comfort zone. Very passionate about learning new skills and eager to make a grip on them. Always hungry towards approaching code effectiveness and efficiency
 
 LinkedIn: https://www.linkedin.com/in/basitk41/ 
