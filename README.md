@@ -4,8 +4,14 @@
 </p>
 <hr/>
 <h4 align="center">
-Creative Developer, designing useful, approachable user interfaces. Knowledgeable on all aspects of Facebook's design best practices and emerging UI development techniques. Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization. Using Node, Express to develop Web Applications and scalable backends.
-Multitalented MERN Stack developer with experience in 2 software industries. Demonstrated excellent skills in HTML, CSS, Bootstrap, JavaScript, React and Node.js/Express.js. True team player with strengths in adaptability and accuracy. I am continuously improving my skills and applying top standards in development..</h4>
+I am a Fullstack JavaScript Developer with a focus on Frontend with more than 3 years of professional software development experience using JavaScript & TypeScript (React/Node/Express) with excellent technical, programming, debugging, and problem-solving skills. I am currently working at Evamp & Saanga, developing highly scalable and reliable applications.
+
+Currently working with leading technologies and tools including Javascript | Typescript | React.js | Next.js | Node.js | Express.js | Redux | Recoil.js | HTML | CSS | SCSS | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | MySQL| MongoDB | Storybook.js | Context API | Formik | Apollo GraphQl | Linux | Jest | Cypress.js | Git | Agile
+
+I worked across various industries and for international companies & startups. My ideal work environment is filled with problems and challenges on a daily basis. I enjoy learning and taking opportunities that propel me beyond my comfort zone. Very passionate about learning new skills and eager to make a grip on them. Always hungry towards approaching code effectiveness and efficiency
+
+LinkedIn: https://www.linkedin.com/in/basitk41/ 
+</h4>
 <br>
 
 ## 🛠️ My Skills
