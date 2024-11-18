@@ -4,7 +4,7 @@
 </p>
 <hr/>
 <h4 align="center">
-I am a Fullstack JavaScript Developer with a focus on Frontend with more than 4 years of professional software development experience using JavaScript & TypeScript (React/Node/Express) with excellent technical, programming, debugging, and problem-solving skills. I am currently working at S&P Global, developing highly scalable and reliable applications.
+I am a Fullstack JavaScript Developer with a focus on Frontend with more than 5 years of professional software development experience using JavaScript & TypeScript (React/Node/Express) with excellent technical, programming, debugging, and problem-solving skills. I am currently working at S&P Global, developing highly scalable and reliable applications.
 <br /><br />
 Currently working with leading technologies and tools including Javascript | Typescript | React.js | Next.js | Node.js | Express.js | Redux | Recoil.js | HTML | CSS | SCSS | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | MySQL| MongoDB | Storybook.js | Context API | Formik | Apollo GraphQl | Linux | Jest | Cypress.js | Git | Agile
 <br /><br />
