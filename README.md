@@ -1,162 +1,111 @@
-<h1 align="center">Hi , I'm Basit Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;React.Js|Next.Js|Node.Js|Express.Js;Always+In+Learning+Mode&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">
-I am a Fullstack JavaScript Developer with a focus on Frontend with more than 5 years of professional software development experience using JavaScript & TypeScript (React/Node/Express) with excellent technical, programming, debugging, and problem-solving skills. I am currently working at S&P Global, developing highly scalable and reliable applications.
-<br /><br />
-Currently working with leading technologies and tools including Javascript | Typescript | React.js | Next.js | Node.js | Express.js | Redux | Recoil.js | HTML | CSS | SCSS | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | MySQL| MongoDB | Storybook.js | Context API | Formik | Apollo GraphQl | Linux | Jest | Cypress.js | Git | Agile
-<br /><br />
-I worked across various industries and for international companies & startups. My ideal work environment is filled with problems and challenges on a daily basis. I enjoy learning and taking opportunities that propel me beyond my comfort zone. Very passionate about learning new skills and eager to make a grip on them. Always hungry towards approaching code effectiveness and efficiency
+### Ciao 👋
 
-LinkedIn: https://www.linkedin.com/in/basitk41/ 
-</h4>
-<br>
+### 🚀 **Basit Ali – Senior Full Stack Engineer**
 
-## 🛠️ My Skills
+👋 Hi, I'm **Basit Ali**, a **Senior Full Stack Engineer** based in **Berlin** with **6+ years of experience** building high-performance web applications and scalable backend systems. I thrive at the intersection of **frontend and backend development**, delivering seamless, user-centric solutions with **modern JavaScript frameworks** and **robust backend architectures**.
 
-### 👉 Programming languages
+---
 
-<p align="left">
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
+## 🔥 **About Me**
 
-### 👉 Frontend Development
+- 🎖 **Gold Medalist** in Computer Science (CGPA: **3.89**)
+- 💼 **Senior Full Stack Engineer** at **S&P Global**
+- 🚀 Contributing to **Capital IQ Pro**, focusing on **scalable full-stack solutions, API integrations, and performance optimization**
+- 🛠 Strong expertise in **React (Next.js, Remix), Node.js (Express, NestJS), TypeScript, and Frontend/Backend Architecture**
+- 📌 Passionate about **best coding practices (TDD, SOLID, DRY, KISS), micro-frontends, and distributed systems**
+- 🏆 Skilled in **Agile (Scrum), Pair Programming, and Cross-functional Team Collaboration**
+- 🔄 **Hands-on experience with n8n workflows**, automating tasks such as:
+  - **Job Application Tracker**: Monitoring job-related emails and forwarding relevant ones to WhatsApp.
+  - **AI Agent Chatbot**: Developed an AI-driven chatbot (showcased in portfolio).
+  - **OpenAI Model Integrations**: Experimenting with different AI models for workflow automation.
 
-<p align="left">
-  &emsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://mui.com/" target="_blank">
-    <img alt="Material" src="https://img.shields.io/badge/Material%20UI-%23FF9A00.svg?style=flat&logo=material-ui&logoColor=blue"/>
-  </a>
-   &emsp;
-  <a href="https://ant.design/" target="_blank">
-    <img alt="Ant" src="https://img.shields.io/badge/Ant%20Design-%23FF9A00.svg?style=flat&logo=ant-design&logoColor=pink"/>
-  </a>
-</p>
+---
 
-### 👉 Databases & Cloud Hosting
+## 🌍 **Portfolio Website**
 
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23FF9A00.svg?style=flat&logo=mongodb&logoColor=green"></a>
-</p>
+**🔗 [Live Portfolio](https://basit-dev.de)**
 
-### 👉Frameworks
+---
 
-<p align="left">
-    &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React Js" src="https://img.shields.io/badge/React-js-%23FF9A00.svg?style=flat&logo=react&logoColor=blue"/>
-  </a>
-    &emsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next Js" src="https://img.shields.io/badge/Next-js-%23FF9A00.svg?style=flat&logo=next.js&logoColor=black"/>
-  </a>
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank">
-    <img alt="Node Js" src="https://img.shields.io/badge/Node-Js-%2300f.svg?style=flat&logo=node&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
-   <img alt="Express Js" src="https://img.shields.io/badge/Express-js-%2300f.svg?style=flat&logo=expressjs&logoColor=white"/>
-  </a>
- </p>
+## 🛠 **Tech Stack**
 
-### 👉 Software & Tools
+### **Frontend**
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries**: React.js, Next.js, Gatsby, Remix
+- **Styling**: Tailwind CSS, Bootstrap, Material-UI, CSS-in-JS (Styled Components, Emotion CSS)
+- **Build Tools**: Webpack, Babel, Vite
+- **Performance Optimization**: Code Splitting, Lazy Loading, Web Vitals, PWA
 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23FF0000.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="CodeSandBox" src="https://img.shields.io/badge/CodeSandBox-000000.svg?logo=codesandbox&logoColor=white"></a>
-  
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
+### **Backend**
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: Node.js (Express, NestJS), Fastify
+- **Database Management**: PostgreSQL, MongoDB, Redis
+- **API Design**: RESTful APIs, GraphQL (Apollo Server), WebSocket APIs
+- **Authentication**: OAuth, JWT, Passport.js
 
-<br/>
+### **State Management & Data Fetching**
+- Redux Toolkit, React Context API, Zustand
+- React Query, RTK Query, Apollo Client (GraphQL)
 
-## 📊 Github Stats (Expand to View)
+### **Testing & Dev Tools**
+- **Testing**: Jest, Cypress, Mocha, Supertest
+- **Version Control & CI/CD**: Git, GitHub Actions, Bitbucket Pipelines
+- **DevOps & Deployment**: Docker, Kubernetes, AWS, Vercel, Netlify
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Basit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=basitk41&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basitk41&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mubashir-dev" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+### **Automation & AI Workflows**
+- **n8n**: Workflow automation for job tracking, notifications, and data processing
+- **OpenAI & AI Integrations**: Custom GPT-powered chatbots, text summarization, AI-driven automation
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/basitk41"><img alt="Basit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basitk41&custom_title=Basit%20Ali's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+---
 
-</details>
+## 📌 **Featured Projects**
 
-<br/>
+### 🚀 **Capital IQ Pro** *(Premier Financial Intelligence Platform)*
+- Built **scalable full-stack solutions** using **React, Node.js, and microservices**.
+- Optimized **performance, security, and maintainability** with TDD and Jest.
 
-- 📫 How to reach me? Well here is my email basitk41@gmail.com
+### 🛒 **Al Habib Pharmacy – E-Commerce Platform**
+- Designed and developed a **scalable full-stack e-commerce platform** with **Next.js, TailwindCSS, and Node.js**.
+- Integrated **payment gateways**, **API handling**, and **backend data management**.
 
-<!---
-basitk41/basitk41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥 **Salam Telecom DMS Portal**
+- A centralized portal for **telecom data management** that includes balance, recharge history, and commissions.
+- Implemented **Frontend** using **React.js** and **Backend** using **Node.js**.
+
+### 🔥 **CodeBattle – Real-time Competitive Coding Platform**
+- Developed **real-time WebSocket communication** for live coding battles.
+- Implemented **backend test case evaluation** using **Node.js** and **PostgreSQL**.
+
+### 🎨 **PixelCraft – Online Pixel Art Editor**
+- Built a **fun and interactive frontend** with the **Canvas API and React**.
+- Enabled **backend support for image storage** and exporting.
+
+### 📅 **TaskFlow – Task Manager with Kanban UI**
+- Designed a **drag-and-drop task manager** with **full-stack integration**.
+- Backend handled **data persistence** using **MongoDB**.
+
+### 🔄 **n8n Workflow Automations**
+- **Job Application Tracker**: Automated workflow that tracks job-related emails, extracts important details, and forwards them to WhatsApp.
+- **AI Agent Chatbot**: Developed an AI-driven chatbot integrated into the portfolio, leveraging OpenAI models for dynamic responses.
+- **OpenAI Model Integrations**: Experimented with various OpenAI models for workflow automation and AI-powered applications.
+
+---
+
+## 🏆 **Certifications & Achievements**
+
+- 🎖 **Gold Medalist** – Islamia College University Peshawar (BS Computer Science, CGPA: 3.89)
+- 📜 **Gen AI, Cybersecurity, and DevOps Training** – S&P Global
+- 🏅 Expertise in **Cloud Computing, AI/ML, and Risk Compliance**
+
+---
+
+## 📬 **Let's Connect**
+
+- **Portfolio:** [https://basit-dev.de](https://basit-dev.de)
+- **GitHub:** [basitk41](https://github.com/basitk41)
+- **LinkedIn:** [Basit Ali](https://www.linkedin.com/in/basitk41)
+- **Email:** [basitk41@gmail.com](mailto:basitk41@gmail.com)
+
+---
+
+🚀 **Always open for collaborations and exciting projects!** Let's build something amazing! ✨
